@@ -17,6 +17,9 @@
 
 - Node.js 18+ 
 - MySQL 服务器（已安装并运行）
+```bash
+net start mysql80
+```
 
 ### 安装步骤
 

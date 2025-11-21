@@ -254,10 +254,6 @@ npm start
 - 对于自然语言转 SQL，建议先使用 schema 查询工具了解数据库结构
 - **不要将包含真实密码的配置文件提交到 Git 仓库**
 
-## 许可证
-
-MIT
-
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！

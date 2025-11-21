@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mysql": {
+      "command": "node",
+      "args": [
+        "D:\\AI\\mcp-server\\src\\index.js",
+        "your_username",
+        "your_password"
+      ]
+    }
+  }
+}
+

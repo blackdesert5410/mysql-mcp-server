@@ -1,0 +1,16 @@
+# MySQL MCP Server 依赖说明
+# 这是一个 Node.js 项目，使用 npm 管理依赖
+
+# 安装依赖：
+# npm install
+
+# 主要依赖：
+@modelcontextprotocol/sdk@^1.0.4
+mysql2@^3.11.5
+dotenv@^16.4.5
+
+# 开发依赖：
+@types/node@^20.14.0
+
+# Node.js 版本要求：18+
+

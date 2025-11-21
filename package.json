@@ -1,0 +1,28 @@
+{
+  "name": "mysql-mcp-server",
+  "version": "1.0.0",
+  "description": "MySQL MCP Server for database management",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node test/test-mcp-server.js"
+  },
+  "keywords": [
+    "mcp",
+    "mysql",
+    "database"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "mysql2": "^3.11.5",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0"
+  }
+}
+

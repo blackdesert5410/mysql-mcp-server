@@ -1,0 +1,53 @@
+# 依赖
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# 环境变量和配置
+.env
+.env.local
+.env.*.local
+config.local.env
+
+# 日志文件
+*.log
+logs/
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 测试覆盖率
+coverage/
+.nyc_output/
+
+# 构建输出
+dist/
+build/
+*.tsbuildinfo
+
+# 其他
+*.pem
+*.key
+*.cert
